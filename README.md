@@ -1,4 +1,4 @@
-# GMTK-Jam-2020
+# GMTK-Jam-2020: OutOfCoinTroll
 My Game for GMTK Jam 2020
 
 - play at: https://romaner811.itch.io/outofcointroll
